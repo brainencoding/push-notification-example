@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="DEV 1" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="DEV 1">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/notification.dev2.consult-info.ru/public_html" local="$PROJECT_DIR$" web="/home/admin/web" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
